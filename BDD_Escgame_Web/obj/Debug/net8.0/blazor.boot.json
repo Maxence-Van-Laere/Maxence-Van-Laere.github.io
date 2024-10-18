@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "BDD_Escgame_Web",
   "resources": {
-    "hash": "sha256-soSNn3115KW/fH4MEg0Z3TuNIC2TnKSX+P9OGG855mQ=",
+    "hash": "sha256-Vd8fQyfolYhwrU07YHwkUzFmZbdUr3KoEFDGp6h+4nw=",
     "jsModuleNative": {
-      "dotnet.native.8.0.10.sx8u3kpvr6.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
+      "dotnet.native.8.0.10.dttvpwtuld.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.10.k9xryk3e4f.js": "sha256-FjrgL9dY6dc2yUoXDWowSfachSgM8O29qUMWDQOJKRI="
+      "dotnet.runtime.8.0.10.39apnb5yx8.js": "sha256-FjrgL9dY6dc2yUoXDWowSfachSgM8O29qUMWDQOJKRI="
     },
     "wasmNative": {
       "dotnet.native.wasm": "sha256-4ymhDbG5daKbi9yL1L574jRRiFFQhiOrDJU5YAYALU4="
@@ -226,10 +226,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "BDD_Escgame_Web.wasm": "sha256-R4X/28VLO5r0JYQkdJD3DdYdQ6Qn9gFQAfZpjNHBrD0="
+      "BDD_Escgame_Web.wasm": "sha256-7ds6Scn3NOjGd+oeeQAfWkvj/GA7lb3OB8C9MY1y5D0="
     },
     "pdb": {
-      "BDD_Escgame_Web.pdb": "sha256-COKpMMuzt6c2UmPwu/jyZ5cx0YmwrRhVPknORzJD+DM="
+      "BDD_Escgame_Web.pdb": "sha256-nGRldlyHcj8VhFTaKrQwTGcCVKeNW69zGBHtFSO4H0k="
     }
   },
   "cacheBootResources": true,

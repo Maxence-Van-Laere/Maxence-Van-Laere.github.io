@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H8stJyrXuOjzAy5v6t6WBJyJGqu9nWGo5Ya4WgIQp18=",
+  "Hash": "6mJqPhpi2+pVuSEBe4fHPfEgqwMP3N4RUg0BpVOCU+Q=",
   "Source": "BDD_Escgame_Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.sx8u3kpvr6.js",
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.10.sx8u3kpvr6.js",
+      "RelativePath": "_framework/dotnet.native.8.0.10.dttvpwtuld.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.k9xryk3e4f.js",
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.10.k9xryk3e4f.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.10.39apnb5yx8.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\EPPlus.Interfaces.wasm",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -318,7 +318,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authentication.Abstractions.wasm",
@@ -4406,25 +4406,6 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
     },
     {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\29k7b4o5vt.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\2gymfjycy5.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -4518,6 +4499,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Xml.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\39apnb5yx8.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.10.39apnb5yx8.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\3g6dmq835r.gz",
@@ -4900,25 +4900,6 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.wasm"
     },
     {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\642hpdv6ws.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\66wjzm32b1.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -5297,6 +5278,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\8jqm1bzm7c.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\8peg5a69ui.gz",
@@ -5888,6 +5888,25 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\EPPlus.Interfaces.wasm"
     },
     {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\d3b5uaod4t.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\dazg1d5edy.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -5905,25 +5924,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\dcuw12qwes.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\dcw0vcki3n.gz",
@@ -5962,6 +5962,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\dttvpwtuld.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.10.dttvpwtuld.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\dvgbm1jou0.gz",
@@ -6057,6 +6076,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\e9fk0wvknf.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\e9igg9lyie.gz",
@@ -6380,6 +6418,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\gsqam1bzs6.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\gtost8gg57.gz",
@@ -6800,25 +6857,6 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.wasm"
     },
     {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\k8zekeyfl6.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\k9gc7h6ha2.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -6836,25 +6874,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceProcess.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\k9xryk3e4f.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.10.k9xryk3e4f.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.k9xryk3e4f.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.k9xryk3e4f.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\khnr5m3csn.gz",
@@ -6912,25 +6931,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\ksr36qrgte.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\kukpiobeaf.gz",
@@ -7446,6 +7446,25 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceModel.Web.wasm"
     },
     {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\q4f82dkrg3.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\q8lpd8hp9y.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -7482,6 +7501,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\qc5pkvggmj.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\qc691m8ij0.gz",
@@ -7731,25 +7769,6 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Mail.wasm"
     },
     {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\sx8u3kpvr6.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.10.sx8u3kpvr6.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.sx8u3kpvr6.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.sx8u3kpvr6.js"
-    },
-    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\sxfux4vffb.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -7881,25 +7900,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\u44hi7y18e.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\u4eucp6z4m.gz",
@@ -8301,6 +8301,25 @@
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Uri.wasm"
     },
     {
+      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\yrpojpvlag.gz",
+      "SourceId": "BDD_Escgame_Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\yvssaekgxk.gz",
       "SourceId": "BDD_Escgame_Web",
       "SourceType": "Computed",
@@ -8375,25 +8394,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\zbhdjsw5o8.gz",
-      "SourceId": "BDD_Escgame_Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\maxen\\Documents\\Projet\\EscgameWeb\\BDD_Escgame_Web\\obj\\Debug\\net8.0\\compressed\\zfmai1rowy.gz",

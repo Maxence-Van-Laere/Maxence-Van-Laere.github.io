@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDD_Escgame_Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+755b4004c9eb00cbf0f6bf3681ff8479bce7bb60")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDD_Escgame_Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDD_Escgame_Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
