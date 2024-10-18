@@ -1,0 +1,103 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BDD_Escgame_Web
+build_property.RootNamespace = BDD_Escgame_Web
+build_property.ProjectDir = C:\Users\maxen\Documents\Projet\EscgameWeb\BDD_Escgame_Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\maxen\Documents\Projet\EscgameWeb\BDD_Escgame_Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article10.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTEwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article8.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Article9.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZTkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Connection_Windows.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ubmVjdGlvbl9XaW5kb3dzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/DevelopperBDD.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2ZWxvcHBlckJERC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Intranet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50cmFuZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qlr8q4on24
+
+[C:/Users/maxen/Documents/Projet/EscgameWeb/BDD_Escgame_Web/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7w7tgalc5i

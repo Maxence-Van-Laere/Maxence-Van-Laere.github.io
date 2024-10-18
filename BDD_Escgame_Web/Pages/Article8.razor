@@ -1,0 +1,67 @@
+﻿@page "/article/8"
+
+<style>
+    .forum-container {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #e6f7ff; /* Fond pastel */
+        transition: background-color 0.3s;
+    }
+
+        .article:hover {
+            background-color: #cceeff; /* Couleur plus claire au survol */
+        }
+
+    h4 {
+        color: #2c3e50; /* Couleur pour le titre des articles */
+    }
+
+    p {
+        line-height: 1.6; /* Améliore la lisibilité du texte */
+    }
+
+    /* Styles pour le bouton */
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 15px;
+        color: #fff;
+        background-color: #007bff; /* Couleur de fond */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+        .back-button:hover {
+            background-color: #0056b3; /* Couleur au survol */
+            transform: translateY(-2px); /* Effet de levée au survol */
+        }
+</style>
+
+<div class="forum-container">
+    <h3>Le rôle de l'IA dans la lutte contre le changement climatique</h3>
+    <p><strong>Date de publication :</strong> 25 septembre 2024</p>
+
+    <div class="article">
+        <p>
+            L'IA peut jouer un rôle crucial dans la lutte contre le changement climatique en optimisant l'utilisation des ressources 
+            et en prédisant les impacts environnementaux.
+        </p>
+        <p>
+            Cet article explore comment l'IA aide les entreprises et les gouvernements à prendre des décisions plus durables.
+        </p>
+    </div>
+
+    <NavLink class="back-button" href="/intranet">Retour au forum</NavLink>
+</div>

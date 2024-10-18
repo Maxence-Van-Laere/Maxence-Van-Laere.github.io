@@ -1,0 +1,82 @@
+﻿@page "/article/2"
+
+<style>
+    .forum-container {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #e6f7ff; /* Fond pastel */
+        transition: background-color 0.3s;
+    }
+
+        .article:hover {
+            background-color: #cceeff; /* Couleur plus claire au survol */
+        }
+
+    h4 {
+        color: #2c3e50; /* Couleur pour le titre des articles */
+    }
+
+    p {
+        line-height: 1.6; /* Améliore la lisibilité du texte */
+    }
+
+    /* Styles pour le bouton */
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 15px;
+        color: #fff;
+        background-color: #007bff; /* Couleur de fond */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+        .back-button:hover {
+            background-color: #0056b3; /* Couleur au survol */
+            transform: translateY(-2px); /* Effet de levée au survol */
+        }
+</style>
+
+<div class="forum-container">
+    <h3>L'IA et la créativité</h3>
+    <p><strong>Date de publication :</strong> 15 octobre 2024</p>
+
+    <div class="article">
+        <p>
+            L'intelligence artificielle s'invite dans le monde de la créativité, aidant les artistes, les écrivains et les musiciens à créer de nouvelles œuvres 
+            et à explorer des territoires inédits. Grâce aux avancées technologiques, les IA sont capables de générer des œuvres d'art, de composer de la musique, 
+            ou même d'écrire des livres en collaboration avec les créateurs humains.
+        </p>
+        <p>
+            Prenons l'exemple de la musique. Des logiciels comme OpenAI's MuseNet sont capables de composer des morceaux originaux dans des styles très variés, 
+            du classique au jazz, en passant par la pop. Les artistes peuvent ainsi utiliser l'IA pour s'inspirer de nouvelles idées et élargir leur palette créative. 
+            Dans le domaine des arts visuels, des algorithmes d'apprentissage profond permettent de générer des œuvres originales à partir de simples descriptions 
+            ou de modèles existants.
+        </p>
+        <p>
+            Toutefois, la collaboration entre humains et IA soulève des questions importantes. L'IA peut-elle vraiment être considérée comme créative, ou n'est-elle 
+            qu'un outil sophistiqué entre les mains des artistes ? Le rôle de l'artiste est-il menacé par ces avancées technologiques ? Pour beaucoup, l'IA représente 
+            un outil puissant qui enrichit le processus créatif sans le remplacer. Les artistes restent les maîtres de leurs créations, et l'IA agit comme une extension 
+            de leur vision artistique.
+        </p>
+        <p>
+            En conclusion, l'intelligence artificielle ouvre de nouvelles perspectives dans le domaine de la création. Les collaborations entre les créateurs humains 
+            et les machines redéfinissent ce que signifie être créatif à l'ère numérique. Cependant, il est essentiel de continuer à interroger le rôle de l'IA et 
+            son impact sur le futur de l'art et de la culture.
+        </p>
+    </div>
+
+    <NavLink class="back-button" href="/intranet">Retour au forum</NavLink>
+</div>

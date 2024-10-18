@@ -1,0 +1,148 @@
+﻿@page "/developperdb"
+@using System.IO
+@using BDD_Escgame_Web
+
+<h3>Profils des Développeurs</h3>
+
+<div class="grid-container">
+    @if (loading)
+    {
+        <p>Chargement en cours...</p>
+    }
+    else if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <p>@errorMessage</p>
+    }
+    else if (developpers != null && developpers.Count > 0)
+    {
+        @foreach (var dev in developpers)
+        {
+            <div class="list-item">
+                <img src="@GetProfileImage(dev.Url_Photo)"
+                     alt="Photo de @dev.Prenom @dev.Nom" class="profile-photo" />
+                <div class="list-item-content">
+                    <div class="list-item-name">@dev.Prenom @dev.Nom</div>
+                    <div>Poste: @dev.Poste_Dev</div>
+                    <div>Date d'entrée: @dev.DateEntree_Dev.ToShortDateString()</div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>Aucun développeur trouvé.</p>
+    }
+</div>
+
+<style>
+    .list-container {
+        display: flex;
+        flex-direction: column;
+        gap: 30px; /* Espacement entre les éléments de la liste */
+        max-width: 800px; /* Largeur maximum de la liste */
+        margin: 0 auto; /* Centrer la liste */
+        padding: 20px; /* Ajouter un peu de padding à la liste pour la rendre plus aérée */
+        background-color: #f4f4f4; /* Ajouter une couleur de fond pour la liste */
+        border-radius: 8px; /* Arrondir les coins du conteneur */
+    }
+
+    .list-item {
+        display: flex;
+        align-items: center; /* Aligner les éléments au centre verticalement */
+        border: 1px solid #ccc;
+        padding: 16px;
+        border-radius: 8px;
+        background-color: #f9f9f9; /* Couleur de fond légère */
+        transition: background-color 0.3s; /* Transition pour le survol */
+        margin-bottom: 10px; /* Ajouter de l'espacement en bas de chaque élément de la liste */
+    }
+
+        .list-item:hover {
+            background-color: #f1f1f1; /* Changer la couleur de fond au survol */
+        }
+
+    .profile-photo {
+        width: 60px; /* Largeur de la photo de profil */
+        height: 60px; /* Hauteur de la photo de profil */
+        border-radius: 50%; /* Arrondir la photo */
+        margin-right: 16px; /* Espacement à droite de l'image */
+    }
+
+    .list-item-content {
+        flex-grow: 1; /* Prendre tout l'espace restant */
+    }
+
+    .list-item-name {
+        font-weight: bold; /* Mettre le nom en gras */
+    }
+</style>
+@* <style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 16px;
+    }
+
+    .grid-item {
+        border: 1px solid #ccc;
+        padding: 16px;
+        text-align: center;
+        border-radius: 8px;
+    }
+</style> *@
+
+@code {
+    private List<Developper> ?developpers ;
+    private bool loading = false;
+    private string errorMessage = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+         developpers = await Task.Run(() => LoadDeveloppers());
+    }
+
+    private List<Developper> LoadDeveloppers()
+    {
+        List<Developper> developpersDB = new List<Developper>
+        {
+            new Developper ("Martin", "Louis", "Ingénieur en Vision par Ordinateur", DateTime.Parse("15/06/2021")),
+            new Developper ("Dupont", "Marie", "Développeuse en traitement du langage naturel", DateTime.Parse("03/01/2022")),
+            new Developper ("Lefebvre", "Jacques", "Spécialiste en apprentissage profond", DateTime.Parse("25/09/2020")),
+            new Developper ("Bernard", "Chloé", "Ingénieure en robotique cognitive", DateTime.Parse("12/07/2019")),
+            new Developper ("Richard", "Nicolas", "Architecte de systèmes IA", DateTime.Parse("10/03/2023")),
+            new Developper ("Moreau", "Laura", "Développeuse en intelligence artificielle générative", DateTime.Parse("02/11/2020")),
+            new Developper ("Dubois", "Éric", "Chercheur en réseaux de neurones", DateTime.Parse("19/05/2021")),
+            new Developper ("Rousseau", "Sophie", "Spécialiste en automatisation et IA", DateTime.Parse("27/08/2018"))
+        };
+
+        return developpersDB;
+    }
+
+
+
+
+
+
+
+    public string GetProfileImage(string photoFileName)
+    {
+        string defaultPhoto = "images/default_profil.jpg";
+
+        if (string.IsNullOrEmpty(photoFileName))
+        {
+            return defaultPhoto;
+        }
+
+        var imagesFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images");
+        var photoFilePath = Path.Combine(imagesFolderPath, photoFileName);
+
+        if (File.Exists(photoFilePath))
+        {
+            return $"/images/{photoFileName}"; 
+        }
+
+        return defaultPhoto;
+    }
+
+
+}

@@ -1,0 +1,113 @@
+﻿@page "/"
+@using System.Collections.Generic
+
+<PageTitle>Dashboard</PageTitle>
+
+<div class="container">
+    <h1>Welcome, Administrator!</h1>
+    <div class="dashboard">
+        <div class="dashboard-card">
+            <h2>Total Users</h2>
+            <p>@totalUsers</p>
+        </div>
+        <div class="dashboard-card">
+            <h2>Total Projects</h2>
+            <p>@totalProjects</p>
+        </div>
+        <div class="dashboard-card">
+            <h2>Pending Requests</h2>
+            <p>@pendingRequests</p>
+        </div>
+    </div>
+
+    <div class="recent-activity">
+        <h2>Recent Activity</h2>
+        <ul>
+            @foreach (var activity in recentActivities)
+            {
+                <li>@activity</li>
+            }
+        </ul>
+    </div>
+</div>
+
+
+<style>
+    .container {
+        padding: 20px;
+        font-family: Arial, sans-serif; /* Change la police globale */
+    }
+
+    .dashboard {
+        display: flex;
+        gap: 20px;
+        margin-bottom: 20px;
+    }
+
+    .dashboard-card {
+        flex: 1;
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 5px;
+        padding: 15px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s; /* Ajoute une animation */
+    }
+
+        .dashboard-card:hover {
+            transform: scale(1.02); /* Effet au survol */
+        }
+
+    h1 {
+        color: #343a40; /* Couleur du titre */
+    }
+
+    h2 {
+        color: #007bff; /* Couleur des sous-titres */
+    }
+
+    .recent-activity {
+        margin-top: 20px;
+        padding: 10px;
+        background: #f8f9fa; /* Fond pour la section d'activité */
+        border: 1px solid #dee2e6;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+        .recent-activity ul {
+            list-style-type: none; /* Supprime les puces */
+            padding: 0;
+        }
+
+        .recent-activity li {
+            padding: 10px;
+            border-bottom: 1px solid #dee2e6; /* Ligne séparatrice */
+            color: #495057; /* Couleur du texte */
+            transition: background 0.2s; /* Animation pour le survol */
+        }
+
+            .recent-activity li:hover {
+                background: #e9ecef; /* Couleur de fond au survol */
+            }
+
+            .recent-activity li:last-child {
+                border-bottom: none; /* Supprime la ligne pour le dernier élément */
+            }
+</style>
+
+
+@code {
+    private int totalUsers = 150; 
+    private int totalProjects = 35; 
+    private int pendingRequests = 5; 
+
+    private List<string> recentActivities = new List<string>
+    {
+        "User John Doe added a new project.",
+        "User Jane Smith updated her profile.",
+        "System maintenance performed.",
+        "New user registered: Alex Johnson.",
+        "Project 'AI Development' completed."
+    };
+}

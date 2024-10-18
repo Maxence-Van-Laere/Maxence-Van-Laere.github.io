@@ -1,0 +1,69 @@
+﻿@page "/article/1"
+
+<style>
+    .forum-container {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #e6f7ff; /* Fond pastel */
+        transition: background-color 0.3s;
+    }
+
+    .article:hover {
+        background-color: #cceeff; /* Couleur plus claire au survol */
+    }
+
+    h4 {
+        color: #2c3e50; /* Couleur pour le titre des articles */
+    }
+
+    p {
+        line-height: 1.6; /* Améliore la lisibilité du texte */
+    }
+
+    /* Styles pour le bouton */
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 15px;
+        color: #fff;
+        background-color: #007bff; /* Couleur de fond */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+    .back-button:hover {
+        background-color: #0056b3; /* Couleur au survol */
+        transform: translateY(-2px); /* Effet de levée au survol */
+    }
+</style>
+
+<div class="forum-container">
+    <h3>L'avenir de l'IA dans la santé</h3>
+    <p><strong>Date de publication :</strong> 15 octobre 2024</p>
+
+    <div class="article">
+        <p>
+            L'intelligence artificielle transforme rapidement le secteur de la santé. Des algorithmes avancés sont utilisés pour diagnostiquer des maladies, 
+            prédire les résultats des traitements et personnaliser les soins pour chaque patient. L'IA aide également à la gestion des ressources hospitalières, 
+            permettant aux établissements de santé de mieux répondre aux besoins des patients.
+        </p>
+        <p>
+            De nombreux exemples illustrent ce changement, comme l'utilisation de l'IA pour analyser les imageries médicales, où les algorithmes surpassent 
+            souvent les radiologues dans la détection précoce des maladies.
+        </p>
+    </div>
+    
+    <NavLink class="back-button" href="/intranet">Retour au forum</NavLink>
+</div>

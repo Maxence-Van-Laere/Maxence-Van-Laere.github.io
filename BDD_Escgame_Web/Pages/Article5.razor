@@ -1,0 +1,81 @@
+﻿@page "/article/5"
+
+<style>
+    .forum-container {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #e6f7ff; /* Fond pastel */
+        transition: background-color 0.3s;
+    }
+
+        .article:hover {
+            background-color: #cceeff; /* Couleur plus claire au survol */
+        }
+
+    h4 {
+        color: #2c3e50; /* Couleur pour le titre des articles */
+    }
+
+    p {
+        line-height: 1.6; /* Améliore la lisibilité du texte */
+    }
+
+    /* Styles pour le bouton */
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 15px;
+        color: #fff;
+        background-color: #007bff; /* Couleur de fond */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+        .back-button:hover {
+            background-color: #0056b3; /* Couleur au survol */
+            transform: translateY(-2px); /* Effet de levée au survol */
+        }
+</style>
+
+<div class="forum-container">
+    <h3>L'intelligence artificielle et l'éducation</h3>
+    <p><strong>Date de publication :</strong> 23 septembre 2024</p>
+
+    <div class="article">
+        <p>
+            L'intelligence artificielle joue un rôle croissant dans le domaine de l'éducation, modifiant la manière dont les étudiants apprennent et 
+            les enseignants enseignent. Avec l'IA, l'apprentissage peut être personnalisé pour répondre aux besoins spécifiques de chaque élève, en 
+            adaptant le contenu et le rythme selon leurs compétences et leurs faiblesses.
+        </p>
+        <p>
+            Les plateformes d'apprentissage en ligne utilisent des algorithmes d'IA pour proposer des exercices adaptés au niveau de chaque apprenant. 
+            Par exemple, une plateforme d'apprentissage des mathématiques peut identifier les lacunes d'un élève et lui fournir des exercices ciblés pour 
+            renforcer ses compétences dans les domaines où il a le plus de difficultés. Cela permet aux élèves de progresser à leur propre rythme et de 
+            recevoir un soutien personnalisé.
+        </p>
+        <p>
+            En outre, les outils d'IA aident les enseignants à évaluer les progrès de leurs étudiants et à identifier rapidement ceux qui ont besoin 
+            d'une aide supplémentaire. Des systèmes de correction automatisés peuvent également alléger la charge de travail des enseignants, leur permettant 
+            de se concentrer sur des tâches plus créatives et pédagogiques.
+        </p>
+        <p>
+            Cependant, l'utilisation de l'IA dans l'éducation soulève également des questions éthiques, notamment en matière de protection des données 
+            des élèves et de la dépendance à la technologie. Il est donc important que ces outils soient utilisés de manière responsable et avec une 
+            attention particulière aux impacts à long terme sur les pratiques éducatives.
+        </p>
+    </div>
+
+    <NavLink class="back-button" href="/intranet">Retour au forum</NavLink>
+</div>

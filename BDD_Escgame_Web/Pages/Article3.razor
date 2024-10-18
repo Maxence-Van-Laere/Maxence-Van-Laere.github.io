@@ -1,0 +1,82 @@
+﻿@page "/article/3"
+
+<style>
+    .forum-container {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #e6f7ff; /* Fond pastel */
+        transition: background-color 0.3s;
+    }
+
+        .article:hover {
+            background-color: #cceeff; /* Couleur plus claire au survol */
+        }
+
+    h4 {
+        color: #2c3e50; /* Couleur pour le titre des articles */
+    }
+
+    p {
+        line-height: 1.6; /* Améliore la lisibilité du texte */
+    }
+
+    /* Styles pour le bouton */
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 15px;
+        color: #fff;
+        background-color: #007bff; /* Couleur de fond */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+        .back-button:hover {
+            background-color: #0056b3; /* Couleur au survol */
+            transform: translateY(-2px); /* Effet de levée au survol */
+        }
+</style>
+
+<div class="forum-container">
+    <h3>L'IA dans les transports</h3>
+    <p><strong>Date de publication :</strong> 20 septembre 2024</p>
+
+    <div class="article">
+        <p>
+            L'intelligence artificielle est en train de révolutionner les transports, des véhicules autonomes aux systèmes de gestion du trafic. 
+            Grâce aux avancées de l'apprentissage automatique, des systèmes de vision par ordinateur et des algorithmes sophistiqués, l'IA rend 
+            nos routes plus sûres et plus efficaces.
+        </p>
+        <p>
+            Un exemple frappant est celui des voitures autonomes. Des entreprises comme Tesla et Waymo développent des véhicules capables de se 
+            déplacer sans intervention humaine, en s'appuyant sur des capteurs et des algorithmes qui analysent en temps réel l'environnement autour 
+            de la voiture. Ces véhicules sont capables de détecter les piétons, de réagir aux feux de signalisation et même de prendre des décisions 
+            complexes comme éviter des obstacles ou changer de voie.
+        </p>
+        <p>
+            Au-delà des voitures autonomes, l'IA joue un rôle majeur dans l'optimisation du transport urbain. Les systèmes intelligents de gestion 
+            du trafic utilisent des capteurs et des caméras pour ajuster en temps réel les feux de circulation, réduire les embouteillages et améliorer 
+            le flux de véhicules dans les grandes villes. Ces systèmes permettent de diminuer les temps de trajet et de réduire les émissions de gaz 
+            à effet de serre.
+        </p>
+        <p>
+            L'IA ouvre ainsi la voie à des transports plus intelligents, plus sûrs et plus respectueux de l'environnement. Cependant, il reste des 
+            défis à relever, notamment en matière de sécurité, de réglementation et d'acceptation par le public. L'avenir des transports dépendra 
+            donc de notre capacité à surmonter ces obstacles tout en intégrant pleinement les innovations apportées par l'IA.
+        </p>
+    </div>
+
+    <NavLink class="back-button" href="/intranet">Retour au forum</NavLink>
+</div>

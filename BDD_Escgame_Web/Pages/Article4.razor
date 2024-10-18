@@ -1,0 +1,80 @@
+﻿@page "/article/4"
+
+<style>
+    .forum-container {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #e6f7ff; /* Fond pastel */
+        transition: background-color 0.3s;
+    }
+
+        .article:hover {
+            background-color: #cceeff; /* Couleur plus claire au survol */
+        }
+
+    h4 {
+        color: #2c3e50; /* Couleur pour le titre des articles */
+    }
+
+    p {
+        line-height: 1.6; /* Améliore la lisibilité du texte */
+    }
+
+    /* Styles pour le bouton */
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 15px;
+        color: #fff;
+        background-color: #007bff; /* Couleur de fond */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+        .back-button:hover {
+            background-color: #0056b3; /* Couleur au survol */
+            transform: translateY(-2px); /* Effet de levée au survol */
+        }
+</style>
+
+<div class="forum-container">
+    <h3>L'intelligence artificielle dans la finance</h3>
+    <p><strong>Date de publication :</strong> 21 septembre 2024</p>
+
+    <div class="article">
+        <p>
+            L'IA a un impact profond sur l'industrie financière, transformant la manière dont les institutions gèrent les risques, prennent des décisions 
+            d'investissement et interagissent avec leurs clients. Les algorithmes d'apprentissage automatique permettent aux entreprises de traiter 
+            d'énormes quantités de données pour identifier des tendances et prévoir les fluctuations des marchés.
+        </p>
+        <p>
+            Un domaine où l'IA excelle est celui de la détection des fraudes. Les banques et les entreprises de cartes de crédit utilisent des algorithmes 
+            qui analysent en temps réel les transactions financières pour détecter des comportements suspects ou inhabituels. Cela permet de réduire les 
+            pertes dues à la fraude et d'améliorer la sécurité des clients.
+        </p>
+        <p>
+            En matière d'investissement, les robots conseillers sont de plus en plus populaires. Ces plateformes automatisées utilisent des algorithmes 
+            pour analyser les préférences des investisseurs et créer des portefeuilles personnalisés, tout en rééquilibrant les investissements en fonction 
+            des conditions du marché.
+        </p>
+        <p>
+            Cependant, malgré ces avancées, des préoccupations subsistent quant à l'éthique et à la transparence des décisions prises par les systèmes 
+            d'IA. Il est essentiel que les entreprises continuent à développer des outils qui prennent en compte ces enjeux pour assurer un usage responsable 
+            de l'IA dans la finance.
+        </p>
+    </div>
+
+    <NavLink class="back-button" href="/intranet">Retour au forum</NavLink>
+</div>
